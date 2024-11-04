@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "youtube.com",
+        hostname: "nextjs-course-sigma-six.vercel.app/",
       },
     ],
   },
